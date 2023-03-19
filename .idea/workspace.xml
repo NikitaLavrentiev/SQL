@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c5e59a4-3bb7-4304-940e-d6801922376b" name="Changes" comment="создал базу данных, в ней таблицу сотрудников, заполнил, отредактировал и удал 1 строку в таблице, после чего вывел на печать таблицу">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SQL_Theory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task.md" beforeDir="false" afterPath="$PROJECT_DIR$/task.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N44rVmLkMBsjRtPv2lDUNCyIcl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.obiscr.chatgpt.settings.ChatGPT",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c5e59a4-3bb7-4304-940e-d6801922376b" name="Changes" comment="" />
+      <created>1678910221726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678910221726</updated>
+      <workItem from="1678910223016" duration="3775000" />
+      <workItem from="1679005925880" duration="1273000" />
+      <workItem from="1679170744490" duration="17612000" />
+    </task>
+    <task id="LOCAL-00001" summary="создал базу данных, в ней таблицу сотрудников, заполнил, отредактировал и удал 1 строку в таблице, после чего вывел на печать таблицу">
+      <created>1678917348952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678917348952</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="создал базу данных, в ней таблицу сотрудников, заполнил, отредактировал и удал 1 строку в таблице, после чего вывел на печать таблицу" />
+    <option name="LAST_COMMIT_MESSAGE" value="создал базу данных, в ней таблицу сотрудников, заполнил, отредактировал и удал 1 строку в таблице, после чего вывел на печать таблицу" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
